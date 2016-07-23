@@ -1,6 +1,6 @@
 # remorseless
 
-retry functionality for failed functions.
+Retry failed functions
 
 ## Usage
 
