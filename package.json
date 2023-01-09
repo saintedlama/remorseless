@@ -29,6 +29,6 @@
     "mocha-lcov-reporter": "^1.2.0"
   },
   "dependencies": {
-    "debug": "^2.2.0"
+    "debug": "^3.1.0"
   }
 }
